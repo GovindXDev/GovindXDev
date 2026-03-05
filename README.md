@@ -1,7 +1,7 @@
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Govind+Choudhary;AI+%26+Machine+Learning+Developer;Python+Programmer+%7C+Open+Source+Learner;Always+Learning+New+Things" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=26&duration=4000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hi+%F0%9F%91%8B%2C+I'm+Govind+Choudhary;Java+Full+Stack+Developer;Spring+Boot+%7C+React+%7C+Open+Source+Learner;Always+Learning+New+Things" alt="Typing SVG" />
   
-  <h3>🤖 AI & ML Developer | 💻 Python Programmer | 🚀 Open Source Learner</h3>
+  <h3>☕ Java Full Stack Developer | 🌱 Spring Boot | 💻 React | 🚀 Open Source Learner</h3>
 </div>
 
 <!-- GitHub Stats Badges -->
@@ -14,23 +14,23 @@
 
 ## 💫 About Me
 
-🔭 Currently working on: **AI and Machine Learning projects using Python**  
-👯 Looking to collaborate on: **Beginner to intermediate ML and Open Source projects**  
-🤝 Looking for help with: **Model optimization and real-world ML system design**  
-🌱 Currently learning: **Data Structures, Algorithms, and Machine Learning fundamentals**  
+🔭 Currently working on: **Java Full Stack projects using Spring Boot & React**  
+👯 Looking to collaborate on: **Beginner to intermediate Java and Open Source projects**  
+🤝 Looking for help with: **Microservices architecture and real-world system design**  
+🌱 Currently learning: **Data Structures, Algorithms, and Java Full Stack development**  
 ⚡ Fun fact: **I break code daily and learn from it**
 
 ---
 
 ## 🚀 Tech Stack
 
-### 🤖 AI / Machine Learning
-![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
-![PyTorch](https://img.shields.io/badge/-PyTorch-EE4C2C?logo=pytorch&logoColor=white&style=flat)
-![TensorFlow](https://img.shields.io/badge/-TensorFlow-FF6F00?logo=tensorflow&logoColor=white&style=flat)
-![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat)
-![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat)
-![Matplotlib](https://img.shields.io/badge/-Matplotlib-ffffff?logo=matplotlib&logoColor=black&style=flat)
+### ☕ Java & Backend
+![Java](https://img.shields.io/badge/-Java-007396?logo=java&logoColor=white&style=flat)
+![Spring Boot](https://img.shields.io/badge/-Spring_Boot-6DB33F?logo=springboot&logoColor=white&style=flat)
+![Spring Security](https://img.shields.io/badge/-Spring_Security-6DB33F?logo=springsecurity&logoColor=white&style=flat)
+![Hibernate](https://img.shields.io/badge/-Hibernate-59666C?logo=hibernate&logoColor=white&style=flat)
+![Maven](https://img.shields.io/badge/-Maven-C71A36?logo=apachemaven&logoColor=white&style=flat)
+![REST API](https://img.shields.io/badge/-REST_API-FF6C37?logo=postman&logoColor=white&style=flat)
 
 ---
 
@@ -44,13 +44,6 @@
 
 ---
 
-### ⚙️ Backend Development
-![Node.js](https://img.shields.io/badge/-Node.js-339933?logo=node.js&logoColor=white&style=flat)
-![Django](https://img.shields.io/badge/-Django-092E20?logo=django&logoColor=white&style=flat)
-![Flask](https://img.shields.io/badge/-Flask-000000?logo=flask&logoColor=white&style=flat)
-
----
-
 ### 🗄️ Databases
 ![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?logo=mongodb&logoColor=white&style=flat)
 ![PostgreSQL](https://img.shields.io/badge/-PostgreSQL-4169E1?logo=postgresql&logoColor=white&style=flat)
@@ -58,13 +51,21 @@
 
 ---
 
+### 🧠 Also Know
+![Python](https://img.shields.io/badge/-Python-3776AB?logo=python&logoColor=white&style=flat)
+![Pandas](https://img.shields.io/badge/-Pandas-150458?logo=pandas&logoColor=white&style=flat)
+![NumPy](https://img.shields.io/badge/-NumPy-013243?logo=numpy&logoColor=white&style=flat)
+
+---
+
 ### 🛠️ Tools & Technologies
 ![Git](https://img.shields.io/badge/-Git-F05032?logo=git&logoColor=white&style=flat)
 ![GitHub](https://img.shields.io/badge/-GitHub-181717?logo=github&logoColor=white&style=flat)
-![Streamlit](https://img.shields.io/badge/-Streamlit-FE4B4B?logo=streamlit&logoColor=white&style=flat)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?logo=docker&logoColor=white&style=flat)
+![Postman](https://img.shields.io/badge/-Postman-FF6C37?logo=postman&logoColor=white&style=flat)
 ![Vercel](https://img.shields.io/badge/-Vercel-000000?logo=vercel&logoColor=white&style=flat)
 ![Linux](https://img.shields.io/badge/-Linux-FCC624?logo=linux&logoColor=black&style=flat)
-![Raspberry Pi](https://img.shields.io/badge/-Raspberry_Pi-C51A4A?logo=raspberrypi&logoColor=white&style=flat)
+![IntelliJ IDEA](https://img.shields.io/badge/-IntelliJ_IDEA-000000?logo=intellijidea&logoColor=white&style=flat)
 
 ---
 
